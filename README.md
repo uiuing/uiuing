@@ -1,7 +1,7 @@
 
 ## Hey, uiu here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues" draggable="false">]("#")
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues" draggable="false">]("https://github.com/uiuing")
 
 I'm uiu, a programming enthusiast.
 
@@ -15,10 +15,10 @@ I'm uiu, a programming enthusiast.
 
 
 
- [<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uiuing" draggable="false">]("#")
+ [<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uiuing" draggable="false">]("https://github.com/uiuing")
 
 
-[<img   width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&layout=compact&hide=css,html" draggable="false">]("#")
+[<img   width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&layout=compact&hide=css,html" draggable="false">]("https://github.com/uiuing")
 
 
 ---
