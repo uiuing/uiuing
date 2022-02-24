@@ -2,7 +2,7 @@
 ## Hey, uiu here! :wave:
 
 
-<a href=""><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues" draggable="false"></a>
+<a href="https://github.com/uiuing" target="_blank"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues" draggable="false"></a>
 
 I'm uiu, a programming enthusiast.
 
@@ -17,11 +17,11 @@ I'm uiu, a programming enthusiast.
 
 
 
-<a href=""><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uiuing" draggable="false"></a>
+<a href="https://github.com/uiuing" target="_blank"><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uiuing" draggable="false"></a>
 
 
 
-<a href=""><img   width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&layout=compact&hide=css,html" draggable="false"></a>
+<a href="https://github.com/uiuing" target="_blank"><img   width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&layout=compact&hide=css,html" draggable="false"></a>
 
 
 ---
