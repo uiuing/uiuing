@@ -26,7 +26,7 @@ I'm uiu, a programming enthusiast.
 
 #### 🌟 **Follow my tech blog**
 
-<a href="https://uiuing.blog.csdn.net" target="_blank">CSDN</a> &nbsp;&nbsp; <a href="https://juejin.cn/user/4037839851890990" target="_blank">掘金</a>
+<a href="https://uiuing.blog.csdn.net" target="_blank">CSDN</a> &nbsp;&nbsp; <a href="https://github.com/uiuing" target="_blank">GitHub</a> &nbsp;&nbsp; <a href="https://juejin.cn/user/4037839851890990" target="_blank">掘金</a>  
 
 
 
