@@ -3,9 +3,9 @@
 
 
 
+ 
+ <a href="https://github.com/uiuing" target="view_window"><img align="right"  width="60%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
 
-
-<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/73827386/155872922-938f8042-88d5-47dd-b97c-b41aaaf8b87a.png" />
 
 I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -15,15 +15,12 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 -   🔭 I’m currently working on <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">full stack</a>.
 -   👨‍💻 Most of my projects are available on <a href="https://github.com/uiuing" target="_blank">Github</a>.
 -   🌟 I regulary write articles on <a href="https://uiuing.blog.csdn.net/" target="_blank">CSDN</a> / <a href="https://juejin.cn/user/4037839851890990" target="_blank">juejin</a>.
--   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: uiuing@foxmail.com;
 
 
-<a href="https://github.com/uiuing" target="view_window"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=css,html&hide_border=true" draggable="false"></a>
  
  <br/>
- 
- <a href="https://github.com/uiuing" target="view_window"><img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+
  
  
  <div align="center">  
