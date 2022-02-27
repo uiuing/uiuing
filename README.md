@@ -4,8 +4,8 @@
 
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/73827386/155872922-938f8042-88d5-47dd-b97c-b41aaaf8b87a.png" />
 
 I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -19,63 +19,55 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 -   📫 How to reach me: uiuing@foxmail.com;
 
 
-<br/>  
+<div align="center">  
 
 
-<a href="https://github.com/uiuing" target="view_window"><img  width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
 
-### I'm love these techniques
+ 
+
+<a href="https://github.com/uiuing" target="view_window"><img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=css,html&hide_border=true" draggable="false"></a>
+
+ 
+ <a href="https://github.com/uiuing" target="view_window"><img  width="60%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+ 
+ <div align="center">  
+
+ <h3>💘 I'm love these techniques </h3>
+ 
+<img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /> &nbsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />&nbsp;  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="35" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /> 
+</div>
+ 
+ </div>
+ 
+ <br/>
+ 
+
+<br/> 
+
+<div align="center">
+<h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Follow my news </h3>
+ 
+![](https://img.shields.io/badge/CSDN-%E5%85%A8%E6%A0%88%E9%A2%86%E5%9F%9F%E6%96%B0%E6%98%9F%E5%88%9B%E4%BD%9C%E8%80%85-red)
+![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB-blue)
+![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)
+
+</div>
 
 <br/>
 
 
-<div align="center">  
 
- 
-<img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> &nbsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />&nbsp;  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-</div>
-
-
-
-
-
-
-<!-- <div align="right">
-
-<a href="https://github.com/uiuing" target="view_window"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&layout=compact&hide=css,html" draggable="false"></a>
-
-
-#### 
-
-
-<a href="https://uiuing.blog.csdn.net" target="view_window">
-<img  width="35%" src="https://user-images.githubusercontent.com/73827386/155535171-41d4c49e-c4b7-435a-bc5d-7a3c8a883cb5.png" draggable="false">
-</a>
-
-
-<a href="https://uiuing.blog.csdn.net" target="view_window">CSDN</a>  &nbsp;&nbsp; <a href="https://juejin.cn/user/4037839851890990" target="view_window">掘金</a>  
-
-</div>
-
-
-
-
-
-
- -->
 
 
 
