@@ -3,11 +3,10 @@
 
 
 
- 
- <a href="https://github.com/uiuing" target="view_window"><img align="right"  width="60%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/73827386/155872922-938f8042-88d5-47dd-b97c-b41aaaf8b87a.png" />
 
 
-I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm uiu, a programming enthusiast. 
 
 
 -   👨‍🎓 Currently studying big data at school
@@ -15,22 +14,21 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 -   🔭 I’m currently working on <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">full stack</a>.
 -   👨‍💻 Most of my projects are available on <a href="https://github.com/uiuing" target="_blank">Github</a>.
 -   🌟 I regulary write articles on <a href="https://uiuing.blog.csdn.net/" target="_blank">CSDN</a> / <a href="https://juejin.cn/user/4037839851890990" target="_blank">juejin</a>.
--   📫 How to reach me: uiuing@foxmail.com;
+-   💬 Ask me about anything, I am happy to help.
+-   📫 How to reach me: uiuing@foxmail.com.
 
 
- 
- <br/>
-
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Coding
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css&langs_count=6&layout=compact&hide_border=true" />
 </div>
  
- 
- <div align="center">  
- 
-<h3>💘 I'm love these techniques </h3>
+
+## 💘 I'm love these techniques
+
+<div> 
 <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="33" />  &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="33" />  &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="33" />  &nbsp;
@@ -45,18 +43,9 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="33" /> 
 </div>
 
- 
- 
+
 <br/>
-
- <br/>
- <br/>
- <br/>
- <br/>
-  <br/>
-   <br/>
- <br/>
-
+ 
 <div align="center">
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Follow my news </h3>
  
@@ -65,6 +54,8 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 ![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)
 
 </div>
+
+
 
 
 
