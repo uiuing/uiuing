@@ -2,7 +2,7 @@
 ## Hey, uiu here! :wave:
 
 
-<a href="">
+<a href="#">
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/73827386/155872922-938f8042-88d5-47dd-b97c-b41aaaf8b87a.png" />
 </a>
 
@@ -20,7 +20,7 @@ I'm uiu, a programming enthusiast. ✨
 <br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Coding
-<a href="">
+<a href="#">
 <div>
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css&langs_count=6&layout=compact&hide_border=true" />
@@ -32,20 +32,20 @@ I'm uiu, a programming enthusiast. ✨
 
 
 <div> 
-<img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="33" /> &nbsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="33" />&nbsp;  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="33" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="33" /> 
+<a href="#"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="33" /></a> &nbsp; 
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="33" /></a>&nbsp;  
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="33" /></a>  &nbsp;
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="33" /></a> 
 </div>
-</a>
+
 
 <br/>
  
