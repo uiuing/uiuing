@@ -21,16 +21,16 @@ I'm uiu, a programming enthusiast. ✨
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Coding
 
-<div>
+<!-- <div>
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css&langs_count=6&layout=compact&hide_border=true" />
     
-</div>
+</div> -->
 
-<!-- <div>
+<div>
     <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css&langs_count=6&layout=compact&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
-</div> -->
+</div>
  
 
 ## 💘 I'm love these techniques
