@@ -22,7 +22,7 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 <br/>  
 
 
-<a href="https://github.com/uiuing" target="view_window"><img  width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+<a href="https://github.com/uiuing" target="view_window"><img  width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
 
 ### I'm love these techniques
 
