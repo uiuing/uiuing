@@ -30,28 +30,24 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
  <br/>
  
 <h3>💘 I'm love these techniques </h3>
-<img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /> &nbsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />&nbsp;  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="35" />  &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /> 
+<img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /> &nbsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />&nbsp;  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="30" />  &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /> 
 </div>
  
  
 <br/>
 
-<br/> 
-
-<br/> 
-
-<br/> 
+ 
 
 <div align="center">
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Follow my news </h3>
