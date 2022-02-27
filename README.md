@@ -19,21 +19,17 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 -   📫 How to reach me: uiuing@foxmail.com;
 
 
-<div align="center">  
-
-
-
- 
-
 <a href="https://github.com/uiuing" target="view_window"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=css,html&hide_border=true" draggable="false"></a>
 
+<br/>
  
- <a href="https://github.com/uiuing" target="view_window"><img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+ <a href="https://github.com/uiuing" target="view_window"><img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
  
- <div align="left">  
-
- <h3>💘 I'm love these techniques </h3>
+<div align="center">  
  
+ <br/>
+ 
+<h3>💘 I'm love these techniques </h3>
 <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="35" />  &nbsp;
@@ -48,10 +44,12 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /> 
 </div>
  
- </div>
  
- <br/>
- 
+<br/>
+
+<br/> 
+
+<br/> 
 
 <br/> 
 
@@ -63,8 +61,6 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 ![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)
 
 </div>
-
-<br/>
 
 
 
