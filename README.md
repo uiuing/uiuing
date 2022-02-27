@@ -6,7 +6,7 @@
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/73827386/155872922-938f8042-88d5-47dd-b97c-b41aaaf8b87a.png" />
 
 
-I'm uiu, a programming enthusiast. 
+I'm uiu, a programming enthusiast. ✨
 
 
 -   👨‍🎓 Currently studying big data at school
@@ -18,10 +18,10 @@ I'm uiu, a programming enthusiast.
 -   📫 How to reach me: uiuing@foxmail.com.
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Coding
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Coding
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
+    <img height="155" align="left" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css&langs_count=6&layout=compact&hide_border=true" />
 </div>
  
