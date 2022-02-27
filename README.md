@@ -21,17 +21,7 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 
 <a href="https://github.com/uiuing" target="view_window"><img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=css,html&hide_border=true" draggable="false"></a>
 
-
- 
- <a href="https://github.com/uiuing" target="view_window"><img align="left"  width="60%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
- 
 <div align="center">  
- 
- <br/>
- 
- <br/>
- 
- <br/>
  
 <h3>💘 I'm love these techniques </h3>
 <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />  &nbsp;
@@ -48,10 +38,21 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /> 
 </div>
  
+ <br/>
+ <br/>
+ 
+ <a href="https://github.com/uiuing" target="view_window"><img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+ 
+
+ 
  
 <br/>
 
- 
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 
 <div align="center">
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Follow my news </h3>
