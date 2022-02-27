@@ -50,9 +50,10 @@ I'm uiu, a programming enthusiast. ✨
 <div align="center">
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Follow my news </h3>
  
-![](https://img.shields.io/badge/CSDN-%E5%85%A8%E6%A0%88%E9%A2%86%E5%9F%9F%E6%96%B0%E6%98%9F%E5%88%9B%E4%BD%9C%E8%80%85-red)
-![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB-blue)
-![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)
+<a href="https://uiuing.blog.csdn.net/" target="_blank">![](https://img.shields.io/badge/CSDN-%E5%85%A8%E6%A0%88%E9%A2%86%E5%9F%9F%E6%96%B0%E6%98%9F%E5%88%9B%E4%BD%9C%E8%80%85-red)</a>
+<a href="https://juejin.cn/user/4037839851890990" target="_blank">![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB-blue)</a>
+<a href="https://github.com/uiuing" target="_blank">![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)</a>
+
 
 </div>
 
