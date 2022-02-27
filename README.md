@@ -25,10 +25,10 @@ I'm uiu, a programming enthusiast. <img src="https://media.giphy.com/media/WUlpl
 
  
 
-<a href="https://github.com/uiuing" target="view_window"><img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=css,html&hide_border=true" draggable="false"></a>
+<a href="https://github.com/uiuing" target="view_window"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=css,html&hide_border=true" draggable="false"></a>
 
  
- <a href="https://github.com/uiuing" target="view_window"><img  width="60%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
+ <a href="https://github.com/uiuing" target="view_window"><img  width="50%" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true" draggable="false"></a>
  
  <div align="center">  
 
