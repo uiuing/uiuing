@@ -23,7 +23,7 @@ I'm uiu, a programming enthusiast. ✨
 <a href="#">
 <div>
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=uiuing&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_border=true" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css&langs_count=6&layout=compact&hide_border=true" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuing&hide=html,css,scss&langs_count=6&layout=compact&hide_border=true" />
 </div> 
 </a>
 
