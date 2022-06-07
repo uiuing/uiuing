@@ -42,7 +42,6 @@ I'm uiu, a programming enthusiast. ✨
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="33" /></a>&nbsp;  
-<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="33" /></a> 
 </div>
 
