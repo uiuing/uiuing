@@ -10,7 +10,7 @@ I'm uiu, a programming enthusiast. ✨
 
 
 -   👨‍🎓 Currently studying big data at school
--   ⚒️ Like JavaScript / Java / Python / TypeScript
+-   ⚒️ Like JavaScript / Java / Python / Go+
 -   🔭 I’m currently working on <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">full stack</a>.
 -   👨‍💻 Most of my projects are available on <a href="https://github.com/uiuing" target="_blank">Github</a>.
 -   🌟 I regulary write articles on <a href="https://uiuing.blog.csdn.net/" target="_blank">CSDN</a> / <a href="https://juejin.cn/user/4037839851890990" target="_blank">juejin</a>.
