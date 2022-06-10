@@ -24,7 +24,7 @@ I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlp
 
 
 <div> 
- <a href="#"><img style="margin: 0px" src="https://pic.imgdb.cn/item/62a300370947543129166234.png" alt="GoPlus" height="33" /></a>  &nbsp;
+ <a href="#"><img style="margin: 0px" src="https://user-images.githubusercontent.com/73827386/173024808-9348cb0e-e700-4ea2-8b05-3d08c4de2e17.png" alt="GoPlus" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="33" /></a>  &nbsp;
