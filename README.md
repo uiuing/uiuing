@@ -44,7 +44,7 @@ I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlp
 <div align="center">
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Follow my news </h3>
  
-<a href="https://uiuing.blog.csdn.net/" target="_blank">![](https://img.shields.io/badge/CSDN-red)</a>
+<a href="https://blog.csdn.net/qq_41103843" target="_blank">![](https://img.shields.io/badge/CSDN-red)</a>
 <a href="https://juejin.cn/user/4037839851890990" target="_blank">![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-blue)</a>
 <a href="https://github.com/uiuing" target="_blank">![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)</a>
 
