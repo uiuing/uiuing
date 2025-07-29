@@ -1,4 +1,3 @@
-
 ## Hey, uiu here! :wave:
 
 
@@ -9,9 +8,10 @@
 I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 
--   👨‍🎓 Currently studying big data at school
--   ⚒️ Like JavaScript / Java / Python / Go+
--   🔭 I’m currently working on <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">full stack</a>.
+-   👨‍🎓 Always consider myself a student, keep learning
+-   💼 Currently working as a Technical Lead for Internet products at a listed company
+-   ⚒️ Like JavaScript / Java / Python / Go+ / PHP
+-   🔭 I'm currently working on <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">full stack</a>.
 -   👨‍💻 Most of my projects are available on <a href="https://github.com/uiuing" target="_blank">Github</a>.
 -   🌟 I regulary write articles on <a href="https://uiuing.blog.csdn.net/" target="_blank">CSDN</a> / <a href="https://juejin.cn/user/4037839851890990" target="_blank">juejin</a>.
 -   💬 Ask me about anything, I am happy to help.
@@ -32,6 +32,7 @@ I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlp
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="33" /></a> &nbsp; 
+<a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="33" /></a> &nbsp; 
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="33" /></a>  &nbsp;
 <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="33" /></a>&nbsp;  
@@ -50,13 +51,3 @@ I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlp
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
