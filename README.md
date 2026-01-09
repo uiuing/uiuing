@@ -7,6 +7,7 @@
 
 I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
+I’m always happy to meet new people and learn together.
 
 -   👨‍🎓 Always consider myself a student, keep learning
 -   💼 Currently working as a Technical Lead for Internet products at a listed company
@@ -15,7 +16,7 @@ I'm uiu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlp
 -   👨‍💻 Most of my projects are available on <a href="https://github.com/uiuing" target="_blank">Github</a>.
 -   🌟 I regulary write articles on <a href="https://uiuing.blog.csdn.net/" target="_blank">CSDN</a> / <a href="https://juejin.cn/user/4037839851890990" target="_blank">juejin</a>.
 -   💬 Ask me about anything, I am happy to help.
--   📫 How to reach me: uiuing@foxmail.com.
+-   📫 I'd love to connect — feel free to email me at uiuing@foxmail.com to say hello, collaborate, learn together, or recommend job opportunities. I look forward to hearing from you!
 
 <br/>
 
