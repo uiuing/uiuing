@@ -53,4 +53,5 @@ I'm always happy to meet new people and learn together.
 <a href="https://github.com/uiuing" target="_blank">![](https://img.shields.io/badge/GitHub-Coding%20creates%20value-green)</a>
 <a href="#" target="_blank">![](https://img.shields.io/badge/小糊说-FF2442)</a>
 
+<img src="https://github.com/user-attachments/assets/74988f7b-f386-4bb1-ab6f-69149b6bf750" width="400">
 </div>
