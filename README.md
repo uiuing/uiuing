@@ -4,16 +4,16 @@
 
 ## Hey, uiu here! :wave:
 
-I'm a full-stack developer with 3+ years of hands-on experience. I currently lead product and engineering for the internet business at a publicly listed manufacturing company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+I'm a full-stack developer with 3+ years of hands-on experience. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-I enjoy building things and sharing what I learn.
+I currently lead product and engineering for the internet business at a publicly listed manufacturing company.
 
-- 🔭 Building **full-stack systems** & **AI-powered applications**
+- 🔭 Working across **full-stack architecture** and **internet products**
 - ⚒️ JavaScript / Java / Python / TypeScript / Go+ / C#
 - 🌟 I regularly write articles on <a href="https://uiuing.blog.csdn.net/" target="_blank">CSDN</a> / <a href="https://juejin.cn/user/4037839851890990" target="_blank">Juejin</a> and create videos as **小糊说**
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/uiuing" target="_blank">GitHub</a>
 - 💬 Ask me about anything—I'm happy to help
-- 📫 For the next stage of my career, I hope to find a long-term role where I can work more closely with AI. If my background might be relevant to your team, I'd genuinely appreciate hearing from you at [uiuing@foxmail.com](mailto:uiuing@foxmail.com).
+- 📫 For the next step in my career, I hope to find a role I can commit to for the long term, closely connected to agentic software—particularly agent platforms, harnesses, and runtimes. If you think my experience might be relevant to what your team is building, I'd be grateful to hear from you at [uiuing@foxmail.com](mailto:uiuing@foxmail.com).
 
 <br/>
 
